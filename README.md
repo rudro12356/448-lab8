@@ -1,3 +1,2 @@
 # 448-lab8
-#has 4 exercies 
-#exercise 4 doesn't work entirely
+#ex4 and 5 has problems
